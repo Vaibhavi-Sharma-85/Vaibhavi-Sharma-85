@@ -34,7 +34,6 @@ Frontend-focused web application for water wastage monitoring with admin dashboa
 
 ### 🔹 Upcoming Projects
 
-* Centralized Judiciary System
 * ColabDev Platform
 * Portfolio Website
 
