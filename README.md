@@ -31,6 +31,7 @@ Frontend-focused web application for water wastage monitoring with admin dashboa
 
 ### 🔹 Centralized Judiciary System
 Web-based judiciary system for case and user management with admin dashboard
+
 👉 [View Project](https://github.com/Vaibhavi-Sharma-85/centralized-judiciary-system)
 
 
