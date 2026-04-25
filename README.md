@@ -27,7 +27,7 @@ I am a Computer Engineering graduate student passionate about building modern, u
 
 Frontend-focused web application for water wastage monitoring with admin dashboard and data visualization.
 
-👉 [View Project](https://github.com/vaibhavi-sharma-85/h2o-wastage-prediction-analytics)
+👉 [View Project](https://github.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics)
 
 ---
 
@@ -47,4 +47,4 @@ To work as a frontend or full-stack developer and build impactful, scalable web 
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/vbsharma260
+* GitHub: https://github.com/Vaibhavi-Sharma-85
