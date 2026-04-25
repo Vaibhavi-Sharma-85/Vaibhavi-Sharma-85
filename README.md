@@ -29,6 +29,7 @@ Frontend-focused web application for water wastage monitoring with admin dashboa
 
 👉 [View Project](https://github.com/Vaibhavi-Sharma-85/h2o-wastage-prediction-analytics)
 
+👉 [View Project](https://github.com/Vaibhavi-Sharma-85/centralized-judiciary-system)
 ---
 
 ### 🔹 Upcoming Projects
